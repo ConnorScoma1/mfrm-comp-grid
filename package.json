@@ -18,6 +18,11 @@
   "homepage": "https://github.com/ConnorScoma1/mfrm-comp-grid#readme",
   "dependencies": {
     "axios": "^0.19.0",
-    "cheerio": "^1.0.0-rc.3"
-  }
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "node": "^12.4.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
